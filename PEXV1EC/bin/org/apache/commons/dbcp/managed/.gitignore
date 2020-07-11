@@ -1,0 +1,15 @@
+/BasicManagedDataSource.class
+/DataSourceXAConnectionFactory.class
+/LocalXAConnectionFactory$LocalXAResource.class
+/LocalXAConnectionFactory.class
+/ManagedConnection$CompletionListener.class
+/ManagedConnection.class
+/ManagedDataSource.class
+/PoolableManagedConnection.class
+/PoolableManagedConnectionFactory.class
+/TransactionContext$1.class
+/TransactionContext.class
+/TransactionContextListener.class
+/TransactionRegistry.class
+/XAConnectionFactory.class
+/package.html
